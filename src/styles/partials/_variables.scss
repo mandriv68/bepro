@@ -1,0 +1,21 @@
+:root {
+  --main-font-size: 10px;
+  --primary-color: #000000;
+  --primary-lighter-color: #333333;
+  --main-bg-color: #ffffff;
+  --secondary-bg-color: #e5e5e5;
+  --yellow-bg-color: #e8c300;
+}
+
+$mobail: "min-width: 375px";
+$tablet: "min-width: 768px";
+$desktop: "min-width: 1366px";
+
+$fontOpenSans: (
+  Regular: 400,
+  Bold: 700
+);
+
+$fontBanny: (
+  Regular: 400
+);
